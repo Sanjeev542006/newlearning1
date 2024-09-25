@@ -1,1 +1,3 @@
-created a new file
+created a new file 
+for learning git & github
+
